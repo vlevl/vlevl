@@ -6,7 +6,7 @@ J'adore apprendre des nouvelles technologies et approfondir mes connaissances su
 
 
 # Technologies
-Les technologies que j'utilise couramment sont le C#, Java, React et Tailwind, mais en ce moment je suis en train d'apprendre le Python et Exilir afin d'éventuellement maîtriser ces languages. En plus de cela, je possède une bonne base du C, JavaScript ainsi que le Haskell.
+Les technologies que j'utilise couramment sont le C#, Java, React et Tailwind, mais en ce moment je suis en train d'apprendre le Python et Elixir afin d'éventuellement maîtriser ces languages. En plus de cela, je possède une bonne base du C, JavaScript ainsi que le Haskell.
 
 Je travaille principalement sur Windows, mais je m'habitue peu à peu à Linux afin de faire une transition complète sur Arch et de m'installer entièrement sur cette distribution.
 
